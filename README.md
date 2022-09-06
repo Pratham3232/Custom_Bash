@@ -1,1 +1,1 @@
-# mounted-bash
+# Custom shell
